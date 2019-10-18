@@ -1,0 +1,3 @@
+coke1.png|C:\Users\zhuan\Desktop\augmentedimage\app\src\main\assets\coke/coke1.png
+coke2.png|C:\Users\zhuan\Desktop\augmentedimage\app\src\main\assets\coke/coke2.png
+coke3.png|C:\Users\zhuan\Desktop\augmentedimage\app\src\main\assets\coke/coke3.png

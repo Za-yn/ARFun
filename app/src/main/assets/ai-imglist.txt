@@ -1,0 +1,7 @@
+coke1.png|C:\Users\zhuan\Desktop\lol\augmentedimage\app\src\main\assets\allimages/coke1.png
+coke2.png|C:\Users\zhuan\Desktop\lol\augmentedimage\app\src\main\assets\allimages/coke2.png
+coke3.png|C:\Users\zhuan\Desktop\lol\augmentedimage\app\src\main\assets\allimages/coke3.png
+ct1.png|C:\Users\zhuan\Desktop\lol\augmentedimage\app\src\main\assets\allimages/ct1.png
+ct2.png|C:\Users\zhuan\Desktop\lol\augmentedimage\app\src\main\assets\allimages/ct2.png
+ct3.png|C:\Users\zhuan\Desktop\lol\augmentedimage\app\src\main\assets\allimages/ct3.png
+tesco1.png|C:\Users\zhuan\Desktop\lol\augmentedimage\app\src\main\assets\allimages/tesco1.png
